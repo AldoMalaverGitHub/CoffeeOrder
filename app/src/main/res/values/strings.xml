@@ -1,0 +1,10 @@
+<resources>
+    <!--Pantalla 1 -->
+
+    <string name="app_name">CoffeeOrder</string>
+    <string name="nroTazas">1</string>
+    <string name="ordenar">Ordenar</string>
+    <string name="orden">You order </string>
+    <!--Pantalla 1 -->
+
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Orden de Cafe</string>
+    <string name="nroTazas">1</string>
+    <string name="ordenar">Order</string>
+    <string name="orden">usted ordeno</string>
+</resources>
